@@ -16,17 +16,13 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 ## 🛠️ Skills & Technologies
 
-**Languages & Frameworks**:  
-HTML, CSS, Python, PHP, Java, JavaScript, TypeScript, React.js, Next.js, Node.js, React Native, TailwindCSS
+- **Languages & Frameworks**:  HTML, CSS, Python, PHP, Java, JavaScript, TypeScript, React.js, Next.js, Node.js, React Native, TailwindCSS
 
-**Databases**:  
-MySQL, MongoDB, Supabase
+-**Databases**:  MySQL, MongoDB, Supabase
 
-**Tools & Platforms**:  
-Git, Docker, Figma
+-**Tools & Platforms**:  Git, Docker, Figma
 
-**Specialties**:  
-Web Development, App Development (React Native, Flutter), AI Applications, UI/UX Design, Web 3.0
+-**Specialties**:  Web Development, App Development (React Native), UI/UX Design
 
 ---
 
@@ -40,7 +36,7 @@ A full-stack project aimed at streamlining bakery operations. Features include p
 ---
 
 ### 🎨 **[Portfolio Website](https://heshandisanayaka.vercel.app)**  
-**Tech Stack**: React.js, TailwindCSS  
+**Tech Stack**: React.js, JavaScript, TailwindCSS 
 A personal portfolio showcasing my skills, projects, and contact information. Explore sections like About, Skills, Projects, and Contact to get a comprehensive view of my journey in development.  
 **GitHub**: [Portfolio Repository](https://github.com/HeshanKavin/Portfolio)
 
@@ -60,3 +56,5 @@ A feature-rich blog platform where users can create, edit, and publish posts via
 ---
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or a chat about technology and innovation!
+
+Thanks for visiting! Have a great day!
