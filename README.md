@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 - **Languages & Frameworks**:  HTML, CSS, Python, PHP, Java, JavaScript, TypeScript, React.js, Next.js, Node.js, React Native, TailwindCSS
 
--**Databases**:  MySQL, MongoDB, Supabase
+- **Databases**:  MySQL, MongoDB, Supabase
 
--**Tools & Platforms**:  Git, Docker, Figma
+- **Tools & Platforms**:  Git, Docker, Figma
 
--**Specialties**:  Web Development, App Development (React Native), UI/UX Design
+- **Specialties**:  Web Development, App Development (React Native), UI/UX Design
 
 ---
 
