@@ -16,32 +16,28 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 ## 🛠️ Skills & Technologies
 
-**Languages**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-
-**Frameworks & Libraries**:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+**Languages & Frameworks**:  
+HTML, CSS, Python, PHP, Java, JavaScript, TypeScript, React.js, Next.js, Node.js, React Native, TailwindCSS
 
 **Databases**:  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
+MySQL, MongoDB, Supabase
 
 **Tools & Platforms**:  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+Git, Docker, Figma
+
+**Specialties**:  
+Web Development, App Development (React Native, Flutter), AI Applications, UI/UX Design, Web 3.0
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🍞 **[Bakery Web Application](https://bakery-web-app.vercel.app)**  
+**Tech Stack**: Next.js, Supabase, TypeScript, TailwindCSS  
+A full-stack project aimed at streamlining bakery operations. Features include product listings, user authentication, online order management, and integrated payments.  
+**GitHub**: [Bakery Web App Repository](https://github.com/chamodRash/bakery_web_app)
+
+---
 
 ### 🎨 **[Portfolio Website](https://heshandisanayaka.vercel.app)**  
 **Tech Stack**: React.js, TailwindCSS  
@@ -53,12 +49,6 @@ A personal portfolio showcasing my skills, projects, and contact information. Ex
 A feature-rich blog platform where users can create, edit, and publish posts via a sleek admin dashboard. Designed with an intuitive UI for a seamless blogging experience.  
 **GitHub**: [Personal Blog Repository](https://github.com/HeshanKavin/Personal_Blog)
 
-### 🍞 **[Bakery Web Application](https://bakery-web-app.vercel.app)**  
-**Tech Stack**: Next.js, Supabase, TypeScript, TailwindCSS  
-A full-stack project aimed at streamlining bakery operations. Features include product listings, user authentication, online order management, and integrated payments.  
-**GitHub**: [Bakery Web App Repository](https://github.com/chamodRash/bakery_web_app)
-
----
 
 ## 📫 Let's Connect!
 
@@ -66,12 +56,6 @@ A full-stack project aimed at streamlining bakery operations. Features include p
 - **🌐 Portfolio**: [heshandisanayaka.vercel.app](https://heshandisanayaka.vercel.app)
 - **🐦 GitHub**: [HeshanKavin](https://github.com/HeshanKavin)
 - **🔗 LinkedIn**: [Heshan Kavinda](https://www.linkedin.com/in/heshan-kavinda-5b3217217/)
-
----
-
-## 🎉 Fun Facts
-- I’m a **fast learner** with a passion for **problem-solving**.
-- Outside of coding, I enjoy **photography**, **videography**, and experimenting with creative UI/UX designs.
 
 ---
 
